@@ -4,14 +4,14 @@
 
 ## Description
 
- [Lights On Software](https://lightsonsoftware.com/)
+ [Official Django Tutorial](https://docs.djangoproject.com/en/5.1/intro/tutorial01/)
 
 ## Getting Started
 
 ### Dependencies
 
 * This code is a Django web application and requires:
-  - Python >= 3.11    
+  - Python >= 3.13   
   - Django >=5.1    
 
 The remaining dependencies can be found in `pyproject.toml`
@@ -21,7 +21,7 @@ The remaining dependencies can be found in `pyproject.toml`
 
 * Navigate to a working directory
 ```
-git clone git@github.com:diek/like-counter.git  
+git clone git@github.com:diek/djangotutorial5.1.git  
 
 cd like-counter  
 ```
