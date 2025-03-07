@@ -1,0 +1,1217 @@
+[
+{
+  "model": "polls.choice",
+  "pk": 1,
+  "fields": {
+    "question": 1,
+    "choice_text": "Not much",
+    "votes": 0
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 2,
+  "fields": {
+    "question": 1,
+    "choice_text": "The sky",
+    "votes": 0
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 3,
+  "fields": {
+    "question": 1,
+    "choice_text": "Just hacking again",
+    "votes": 0
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 4,
+  "fields": {
+    "question": 2,
+    "choice_text": "Lists, Tuples, Sets, Dictionaries",
+    "votes": 84
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 5,
+  "fields": {
+    "question": 2,
+    "choice_text": "Arrays, Linked Lists, HashMaps",
+    "votes": 43
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 6,
+  "fields": {
+    "question": 2,
+    "choice_text": "Strings, Booleans, Integers, Floats",
+    "votes": 36
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 7,
+  "fields": {
+    "question": 3,
+    "choice_text": "Shallow copy creates a reference, deep copy duplicates data",
+    "votes": 75
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 8,
+  "fields": {
+    "question": 3,
+    "choice_text": "Both create new copies of objects in memory",
+    "votes": 65
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 9,
+  "fields": {
+    "question": 3,
+    "choice_text": "Shallow copy works only with primitive data types",
+    "votes": 86
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 10,
+  "fields": {
+    "question": 4,
+    "choice_text": "Python uses reference counting and a cyclic garbage collector",
+    "votes": 48
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 11,
+  "fields": {
+    "question": 4,
+    "choice_text": "Garbage collection in Python is manual",
+    "votes": 85
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 12,
+  "fields": {
+    "question": 4,
+    "choice_text": "Python deletes variables immediately when they are unused",
+    "votes": 74
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 13,
+  "fields": {
+    "question": 5,
+    "choice_text": "Lists are mutable, Tuples are immutable",
+    "votes": 18
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 14,
+  "fields": {
+    "question": 5,
+    "choice_text": "Lists use less memory than tuples",
+    "votes": 81
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 15,
+  "fields": {
+    "question": 5,
+    "choice_text": "Tuples can change their values after creation",
+    "votes": 90
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 16,
+  "fields": {
+    "question": 6,
+    "choice_text": "Python manages memory using a private heap",
+    "votes": 29
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 17,
+  "fields": {
+    "question": 6,
+    "choice_text": "Memory management is done manually in Python",
+    "votes": 15
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 18,
+  "fields": {
+    "question": 6,
+    "choice_text": "Python does not allocate memory dynamically",
+    "votes": 86
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 19,
+  "fields": {
+    "question": 7,
+    "choice_text": "Django is a high-level Python web framework",
+    "votes": 2
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 20,
+  "fields": {
+    "question": 7,
+    "choice_text": "Django is a database management system",
+    "votes": 85
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 21,
+  "fields": {
+    "question": 7,
+    "choice_text": "Django is used for machine learning applications",
+    "votes": 71
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 22,
+  "fields": {
+    "question": 8,
+    "choice_text": "MTV stands for Model-Template-View",
+    "votes": 52
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 23,
+  "fields": {
+    "question": 8,
+    "choice_text": "MTV is a variation of MVC",
+    "votes": 17
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 24,
+  "fields": {
+    "question": 8,
+    "choice_text": "MTV architecture separates data, logic, and presentation",
+    "votes": 35
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 25,
+  "fields": {
+    "question": 9,
+    "choice_text": "Middleware is a framework for processing requests and responses",
+    "votes": 82
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 26,
+  "fields": {
+    "question": 9,
+    "choice_text": "Middleware is only used for authentication",
+    "votes": 32
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 27,
+  "fields": {
+    "question": 9,
+    "choice_text": "Django does not support middleware",
+    "votes": 48
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 28,
+  "fields": {
+    "question": 10,
+    "choice_text": "Subclass models.Field and override necessary methods",
+    "votes": 6
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 29,
+  "fields": {
+    "question": 10,
+    "choice_text": "Use custom SQL queries to create a new field",
+    "votes": 44
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 30,
+  "fields": {
+    "question": 10,
+    "choice_text": "Modify the Django ORM directly",
+    "votes": 68
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 31,
+  "fields": {
+    "question": 11,
+    "choice_text": "ForeignKey represents a many-to-one relationship",
+    "votes": 17
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 32,
+  "fields": {
+    "question": 11,
+    "choice_text": "OneToOneField is used for one-to-many relationships",
+    "votes": 66
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 33,
+  "fields": {
+    "question": 11,
+    "choice_text": "ForeignKey is faster than OneToOneField",
+    "votes": 23
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 34,
+  "fields": {
+    "question": 12,
+    "choice_text": "Use select_related() and prefetch_related()",
+    "votes": 71
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 35,
+  "fields": {
+    "question": 12,
+    "choice_text": "Optimize queries by writing raw SQL only",
+    "votes": 31
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 36,
+  "fields": {
+    "question": 12,
+    "choice_text": "Django ORM automatically optimizes all queries",
+    "votes": 81
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 37,
+  "fields": {
+    "question": 13,
+    "choice_text": "Django ORM abstracts SQL queries",
+    "votes": 9
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 38,
+  "fields": {
+    "question": 13,
+    "choice_text": "Django ORM is only for NoSQL databases",
+    "votes": 11
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 39,
+  "fields": {
+    "question": 13,
+    "choice_text": "Django ORM does not support relational databases",
+    "votes": 35
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 40,
+  "fields": {
+    "question": 14,
+    "choice_text": "Django provides built-in authentication with User model",
+    "votes": 51
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 41,
+  "fields": {
+    "question": 14,
+    "choice_text": "User authentication must be implemented from scratch",
+    "votes": 72
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 42,
+  "fields": {
+    "question": 14,
+    "choice_text": "Django does not support user authentication",
+    "votes": 49
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 43,
+  "fields": {
+    "question": 15,
+    "choice_text": "@staticmethod does not access class state, @classmethod does",
+    "votes": 98
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 44,
+  "fields": {
+    "question": 15,
+    "choice_text": "Both @staticmethod and @classmethod modify instance attributes",
+    "votes": 95
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 45,
+  "fields": {
+    "question": 15,
+    "choice_text": "@classmethod cannot be called on a class",
+    "votes": 31
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 46,
+  "fields": {
+    "question": 16,
+    "choice_text": "Django uses unittest and pytest for testing",
+    "votes": 63
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 47,
+  "fields": {
+    "question": 16,
+    "choice_text": "Unit testing is done only with shell scripts",
+    "votes": 63
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 48,
+  "fields": {
+    "question": 16,
+    "choice_text": "Django does not support unit testing",
+    "votes": 66
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 49,
+  "fields": {
+    "question": 17,
+    "choice_text": "settings.py contains configuration settings for a Django project",
+    "votes": 41
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 50,
+  "fields": {
+    "question": 17,
+    "choice_text": "settings.py stores all database records",
+    "votes": 74
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 51,
+  "fields": {
+    "question": 17,
+    "choice_text": "settings.py defines URL patterns",
+    "votes": 56
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 52,
+  "fields": {
+    "question": 18,
+    "choice_text": "Django applications can be deployed using WSGI or ASGI",
+    "votes": 88
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 53,
+  "fields": {
+    "question": 18,
+    "choice_text": "Django must be run as a standalone script",
+    "votes": 81
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 54,
+  "fields": {
+    "question": 18,
+    "choice_text": "Django does not support deployment",
+    "votes": 6
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 55,
+  "fields": {
+    "question": 19,
+    "choice_text": "Signals allow decoupled components to communicate",
+    "votes": 6
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 56,
+  "fields": {
+    "question": 19,
+    "choice_text": "Signals are used only for caching in Django",
+    "votes": 38
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 57,
+  "fields": {
+    "question": 19,
+    "choice_text": "Django does not support signals",
+    "votes": 42
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 58,
+  "fields": {
+    "question": 20,
+    "choice_text": "Celery is used for asynchronous task execution",
+    "votes": 14
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 59,
+  "fields": {
+    "question": 20,
+    "choice_text": "Celery is an alternative to Django ORM",
+    "votes": 94
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 60,
+  "fields": {
+    "question": 20,
+    "choice_text": "Celery only works with Flask",
+    "votes": 6
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 61,
+  "fields": {
+    "question": 21,
+    "choice_text": "filter() includes matching records, exclude() excludes them",
+    "votes": 45
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 62,
+  "fields": {
+    "question": 21,
+    "choice_text": "filter() and exclude() are the same",
+    "votes": 27
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 63,
+  "fields": {
+    "question": 21,
+    "choice_text": "exclude() is used only for deleting records",
+    "votes": 83
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 64,
+  "fields": {
+    "question": 22,
+    "choice_text": "__init__.py makes a directory a Python package",
+    "votes": 78
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 65,
+  "fields": {
+    "question": 22,
+    "choice_text": "__init__.py is used only for database migrations",
+    "votes": 61
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 66,
+  "fields": {
+    "question": 22,
+    "choice_text": "__init__.py is required in all Python scripts",
+    "votes": 24
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 67,
+  "fields": {
+    "question": 23,
+    "choice_text": "Decorators modify functions dynamically",
+    "votes": 66
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 68,
+  "fields": {
+    "question": 23,
+    "choice_text": "Decorators are used only in Django",
+    "votes": 1
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 69,
+  "fields": {
+    "question": 23,
+    "choice_text": "Decorators are the same as lambda functions",
+    "votes": 26
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 70,
+  "fields": {
+    "question": 24,
+    "choice_text": "Django uses try-except blocks for exception handling",
+    "votes": 81
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 71,
+  "fields": {
+    "question": 24,
+    "choice_text": "Django does not support error handling",
+    "votes": 41
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 72,
+  "fields": {
+    "question": 24,
+    "choice_text": "Django requires external libraries for exception handling",
+    "votes": 61
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 73,
+  "fields": {
+    "question": 25,
+    "choice_text": "CBVs allow reusable views with less code",
+    "votes": 62
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 74,
+  "fields": {
+    "question": 25,
+    "choice_text": "CBVs cannot handle HTTP methods",
+    "votes": 23
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 75,
+  "fields": {
+    "question": 25,
+    "choice_text": "CBVs are slower than function-based views",
+    "votes": 52
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 76,
+  "fields": {
+    "question": 26,
+    "choice_text": "Django handles file uploads with FileField",
+    "votes": 48
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 77,
+  "fields": {
+    "question": 26,
+    "choice_text": "Django does not support file uploads",
+    "votes": 55
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 78,
+  "fields": {
+    "question": 26,
+    "choice_text": "File uploads require an external library",
+    "votes": 71
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 79,
+  "fields": {
+    "question": 27,
+    "choice_text": "DRF is used to build RESTful APIs",
+    "votes": 54
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 80,
+  "fields": {
+    "question": 27,
+    "choice_text": "DRF replaces Django’s ORM",
+    "votes": 67
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 81,
+  "fields": {
+    "question": 27,
+    "choice_text": "DRF is only for handling databases",
+    "votes": 15
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 82,
+  "fields": {
+    "question": 28,
+    "choice_text": "Django provides authentication with the User model",
+    "votes": 17
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 83,
+  "fields": {
+    "question": 28,
+    "choice_text": "Authentication is not possible in Django",
+    "votes": 41
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 84,
+  "fields": {
+    "question": 28,
+    "choice_text": "Django authentication requires third-party plugins",
+    "votes": 12
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 85,
+  "fields": {
+    "question": 29,
+    "choice_text": "Pagination is done using Django’s Paginator class",
+    "votes": 46
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 86,
+  "fields": {
+    "question": 29,
+    "choice_text": "Pagination requires raw SQL queries",
+    "votes": 28
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 87,
+  "fields": {
+    "question": 29,
+    "choice_text": "Django does not support pagination",
+    "votes": 14
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 88,
+  "fields": {
+    "question": 30,
+    "choice_text": "collectstatic gathers all static files in STATIC_ROOT",
+    "votes": 23
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 89,
+  "fields": {
+    "question": 30,
+    "choice_text": "collectstatic is used for database migration",
+    "votes": 4
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 90,
+  "fields": {
+    "question": 30,
+    "choice_text": "collectstatic clears Django’s cache",
+    "votes": 46
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 91,
+  "fields": {
+    "question": 31,
+    "choice_text": "Django caching improves performance using in-memory storage",
+    "votes": 97
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 92,
+  "fields": {
+    "question": 31,
+    "choice_text": "Django caching is only for logging errors",
+    "votes": 51
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 93,
+  "fields": {
+    "question": 31,
+    "choice_text": "Django does not support caching",
+    "votes": 12
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 94,
+  "fields": {
+    "question": 32,
+    "choice_text": "Performance is improved with indexing and caching",
+    "votes": 14
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 95,
+  "fields": {
+    "question": 32,
+    "choice_text": "Django performance depends only on the database",
+    "votes": 3
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 96,
+  "fields": {
+    "question": 32,
+    "choice_text": "Django has no built-in performance optimizations",
+    "votes": 60
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 97,
+  "fields": {
+    "question": 33,
+    "choice_text": "Sessions store data on the server, cookies store data on the client",
+    "votes": 59
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 98,
+  "fields": {
+    "question": 33,
+    "choice_text": "Cookies and sessions are identical",
+    "votes": 41
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 99,
+  "fields": {
+    "question": 33,
+    "choice_text": "Sessions are only used in APIs",
+    "votes": 60
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 100,
+  "fields": {
+    "question": 34,
+    "choice_text": "Form validation is handled with Django’s forms API",
+    "votes": 49
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 101,
+  "fields": {
+    "question": 34,
+    "choice_text": "Django does not support form validation",
+    "votes": 53
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 102,
+  "fields": {
+    "question": 34,
+    "choice_text": "Forms must be validated manually",
+    "votes": 37
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 103,
+  "fields": {
+    "question": 35,
+    "choice_text": "ModelForms simplify form handling based on models",
+    "votes": 36
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 104,
+  "fields": {
+    "question": 35,
+    "choice_text": "ModelForms are only for authentication",
+    "votes": 46
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 105,
+  "fields": {
+    "question": 35,
+    "choice_text": "ModelForms do not support custom fields",
+    "votes": 40
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 106,
+  "fields": {
+    "question": 36,
+    "choice_text": "Django admin can be customized with ModelAdmin",
+    "votes": 97
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 107,
+  "fields": {
+    "question": 36,
+    "choice_text": "Django admin cannot be customized",
+    "votes": 70
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 108,
+  "fields": {
+    "question": 36,
+    "choice_text": "Django admin only works for built-in models",
+    "votes": 15
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 109,
+  "fields": {
+    "question": 37,
+    "choice_text": "JSONField stores structured JSON data",
+    "votes": 73
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 110,
+  "fields": {
+    "question": 37,
+    "choice_text": "TextField is required for JSON data",
+    "votes": 8
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 111,
+  "fields": {
+    "question": 37,
+    "choice_text": "JSONField is only available in MySQL",
+    "votes": 97
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 112,
+  "fields": {
+    "question": 38,
+    "choice_text": "Search is implemented using Django’s search framework",
+    "votes": 85
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 113,
+  "fields": {
+    "question": 38,
+    "choice_text": "Search requires an external database",
+    "votes": 55
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 114,
+  "fields": {
+    "question": 38,
+    "choice_text": "Django does not support search",
+    "votes": 67
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 115,
+  "fields": {
+    "question": 39,
+    "choice_text": "save() updates or creates, create() only creates",
+    "votes": 2
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 116,
+  "fields": {
+    "question": 39,
+    "choice_text": "save() and create() are identical",
+    "votes": 47
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 117,
+  "fields": {
+    "question": 39,
+    "choice_text": "create() updates records automatically",
+    "votes": 74
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 118,
+  "fields": {
+    "question": 40,
+    "choice_text": "Migrations manage database schema changes",
+    "votes": 87
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 119,
+  "fields": {
+    "question": 40,
+    "choice_text": "Migrations are not required in Django",
+    "votes": 11
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 120,
+  "fields": {
+    "question": 40,
+    "choice_text": "Migrations are only used for backups",
+    "votes": 23
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 121,
+  "fields": {
+    "question": 41,
+    "choice_text": "GET is used for retrieving data, POST for modifying data",
+    "votes": 90
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 122,
+  "fields": {
+    "question": 41,
+    "choice_text": "GET and POST are interchangeable",
+    "votes": 36
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 123,
+  "fields": {
+    "question": 41,
+    "choice_text": "Django only supports GET requests",
+    "votes": 24
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 124,
+  "fields": {
+    "question": 42,
+    "choice_text": "CSRF protection prevents cross-site request forgery",
+    "votes": 34
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 125,
+  "fields": {
+    "question": 42,
+    "choice_text": "CSRF tokens are not needed for forms",
+    "votes": 38
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 126,
+  "fields": {
+    "question": 42,
+    "choice_text": "Django does not support CSRF protection",
+    "votes": 39
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 127,
+  "fields": {
+    "question": 43,
+    "choice_text": "ContentType framework manages model permissions",
+    "votes": 82
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 128,
+  "fields": {
+    "question": 43,
+    "choice_text": "ContentType is used for caching",
+    "votes": 2
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 129,
+  "fields": {
+    "question": 43,
+    "choice_text": "Django does not have ContentType",
+    "votes": 50
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 130,
+  "fields": {
+    "question": 44,
+    "choice_text": "Image optimization is done using Pillow",
+    "votes": 73
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 131,
+  "fields": {
+    "question": 44,
+    "choice_text": "Django does not support image handling",
+    "votes": 27
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 132,
+  "fields": {
+    "question": 44,
+    "choice_text": "Images must be stored as base64 strings",
+    "votes": 14
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 133,
+  "fields": {
+    "question": 45,
+    "choice_text": "Template filters modify variable output in templates",
+    "votes": 73
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 134,
+  "fields": {
+    "question": 45,
+    "choice_text": "Filters are used for security in Django",
+    "votes": 44
+  }
+},
+{
+  "model": "polls.choice",
+  "pk": 135,
+  "fields": {
+    "question": 45,
+    "choice_text": "Django templates do not support filters",
+    "votes": 21
+  }
+}
+]

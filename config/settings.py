@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+FIXTURES = [BASE_DIR / "fixtures"]
 
 # Application definition
 
@@ -39,7 +40,9 @@ DJANGO_APPS = [
     "django.contrib.staticfiles",
 ]
 
-PROJECT_APPS = []
+PROJECT_APPS = [
+    "polls.apps.PollsConfig",
+]
 
 
 THIRD_PARTY_UTILS = [

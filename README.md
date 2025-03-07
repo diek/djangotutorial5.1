@@ -39,9 +39,8 @@ source _env/bin/activate
 
 ### Import Some Data to work with
 ```
-./manage.py loaddata users.json  
-./manage.py loaddata post.json 
-./manage.py loaddata like.json   
+./manage.py loaddata question.json  
+./manage.py loaddata choice.json    
 ```
 
 ### Executing program
@@ -69,9 +68,3 @@ Disable Django-Debug Toolbar before running tests. References are found in:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details  
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.  
-* [Creating a Custom User Model in Django](https://testdriven.io/blog/django-custom-user-model/) from Michael Herman  
-

@@ -1,0 +1,418 @@
+[
+{
+  "model": "polls.question",
+  "pk": 1,
+  "fields": {
+    "question_text": "What's new?",
+    "pub_date": "2025-03-06T17:52:39Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 2,
+  "fields": {
+    "question_text": "What are Python's built-in data types?",
+    "pub_date": "2025-12-04T18:46:08Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 3,
+  "fields": {
+    "question_text": "Explain the difference between deep copy and shallow copy in Python.",
+    "pub_date": "2022-07-01T02:07:28Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 4,
+  "fields": {
+    "question_text": "How does Python's garbage collection work?",
+    "pub_date": "2022-10-06T08:39:15Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 5,
+  "fields": {
+    "question_text": "What is the difference between a list and a tuple in Python?",
+    "pub_date": "2023-10-12T03:32:41Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 6,
+  "fields": {
+    "question_text": "How do you handle memory management in Python?",
+    "pub_date": "2020-11-10T03:32:09Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 7,
+  "fields": {
+    "question_text": "What is Django and why is it used?",
+    "pub_date": "2021-12-22T20:18:12Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 8,
+  "fields": {
+    "question_text": "Explain Django's MTV architecture.",
+    "pub_date": "2021-05-31T00:26:43Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 9,
+  "fields": {
+    "question_text": "What are Django middlewares?",
+    "pub_date": "2020-02-27T18:21:05Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 10,
+  "fields": {
+    "question_text": "How do you create a custom Django model field?",
+    "pub_date": "2021-11-18T12:05:48Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 11,
+  "fields": {
+    "question_text": "What is the difference between a ForeignKey and a OneToOneField in Django?",
+    "pub_date": "2021-05-25T18:58:34Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 12,
+  "fields": {
+    "question_text": "How can you optimize database queries in Django?",
+    "pub_date": "2022-06-25T22:58:26Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 13,
+  "fields": {
+    "question_text": "What is the purpose of Django's ORM?",
+    "pub_date": "2020-12-12T13:52:11Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 14,
+  "fields": {
+    "question_text": "How do you implement user authentication in Django?",
+    "pub_date": "2025-10-19T09:50:37Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 15,
+  "fields": {
+    "question_text": "What is the difference between @staticmethod and @classmethod in Python?",
+    "pub_date": "2022-11-19T17:39:51Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 16,
+  "fields": {
+    "question_text": "How do you perform unit testing in Django?",
+    "pub_date": "2020-11-16T00:03:31Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 17,
+  "fields": {
+    "question_text": "What is the role of Django's settings.py file?",
+    "pub_date": "2020-07-28T03:28:44Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 18,
+  "fields": {
+    "question_text": "How do you deploy a Django application?",
+    "pub_date": "2020-04-09T07:10:32Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 19,
+  "fields": {
+    "question_text": "What are Django signals and how do they work?",
+    "pub_date": "2025-08-22T14:38:47Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 20,
+  "fields": {
+    "question_text": "How do you use Celery with Django?",
+    "pub_date": "2025-10-13T14:30:34Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 21,
+  "fields": {
+    "question_text": "What is the difference between filter() and exclude() in Django ORM?",
+    "pub_date": "2020-06-21T04:45:36Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 22,
+  "fields": {
+    "question_text": "Explain the use of Python’s __init__.py file.",
+    "pub_date": "2020-11-13T13:01:56Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 23,
+  "fields": {
+    "question_text": "What are Python decorators and how do they work?",
+    "pub_date": "2022-11-14T08:50:48Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 24,
+  "fields": {
+    "question_text": "How do you handle exceptions in Django?",
+    "pub_date": "2024-07-17T15:01:47Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 25,
+  "fields": {
+    "question_text": "What are Django class-based views (CBVs)?",
+    "pub_date": "2024-06-25T15:00:31Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 26,
+  "fields": {
+    "question_text": "How does Django handle file uploads?",
+    "pub_date": "2021-10-26T09:45:14Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 27,
+  "fields": {
+    "question_text": "What is Django Rest Framework (DRF)?",
+    "pub_date": "2020-10-06T07:44:02Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 28,
+  "fields": {
+    "question_text": "Explain Django's built-in user authentication system.",
+    "pub_date": "2023-04-27T19:03:01Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 29,
+  "fields": {
+    "question_text": "How do you implement pagination in Django?",
+    "pub_date": "2022-11-19T10:14:43Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 30,
+  "fields": {
+    "question_text": "What is Django’s collectstatic command?",
+    "pub_date": "2025-05-17T23:31:01Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 31,
+  "fields": {
+    "question_text": "Explain Django’s caching framework.",
+    "pub_date": "2024-10-11T13:21:37Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 32,
+  "fields": {
+    "question_text": "How can you improve Django performance?",
+    "pub_date": "2025-05-30T11:10:12Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 33,
+  "fields": {
+    "question_text": "What is the difference between sessions and cookies in Django?",
+    "pub_date": "2020-06-06T07:24:39Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 34,
+  "fields": {
+    "question_text": "How does Django handle form validation?",
+    "pub_date": "2021-03-29T22:08:15Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 35,
+  "fields": {
+    "question_text": "Explain Django’s ModelForms and how they work.",
+    "pub_date": "2020-06-10T13:28:12Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 36,
+  "fields": {
+    "question_text": "How do you customize Django admin?",
+    "pub_date": "2022-01-04T13:53:24Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 37,
+  "fields": {
+    "question_text": "What is the difference between Django’s JSONField and TextField?",
+    "pub_date": "2023-10-22T12:28:41Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 38,
+  "fields": {
+    "question_text": "How do you implement search functionality in Django?",
+    "pub_date": "2020-03-19T17:00:08Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 39,
+  "fields": {
+    "question_text": "What is the difference between Django's save() and create() methods?",
+    "pub_date": "2020-12-05T05:00:46Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 40,
+  "fields": {
+    "question_text": "What is the purpose of Django’s migrations?",
+    "pub_date": "2021-06-12T19:40:58Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 41,
+  "fields": {
+    "question_text": "Explain the difference between GET and POST in Django.",
+    "pub_date": "2022-04-26T19:53:24Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 42,
+  "fields": {
+    "question_text": "How does Django handle CSRF protection?",
+    "pub_date": "2020-11-22T12:34:40Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 43,
+  "fields": {
+    "question_text": "What is the use of Django’s ContentType framework?",
+    "pub_date": "2025-12-05T08:12:02Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 44,
+  "fields": {
+    "question_text": "How do you optimize image handling in Django?",
+    "pub_date": "2023-02-07T12:00:32Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 45,
+  "fields": {
+    "question_text": "What are Django template filters?",
+    "pub_date": "2023-07-07T01:14:04Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 46,
+  "fields": {
+    "question_text": "What are Django context processors?",
+    "pub_date": "2022-08-18T03:14:03Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 47,
+  "fields": {
+    "question_text": "How do you implement WebSockets in Django?",
+    "pub_date": "2021-01-15T00:02:46Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 48,
+  "fields": {
+    "question_text": "What is Django’s multi-database support?",
+    "pub_date": "2021-01-10T12:22:52Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 49,
+  "fields": {
+    "question_text": "How do you use Django signals for event-driven programming?",
+    "pub_date": "2022-04-28T11:20:18Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 50,
+  "fields": {
+    "question_text": "What is the difference between Django’s prefetch_related and select_related?",
+    "pub_date": "2023-12-25T18:25:20Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 51,
+  "fields": {
+    "question_text": "Explain Django’s transaction management.",
+    "pub_date": "2022-03-27T06:46:54Z"
+  }
+},
+{
+  "model": "polls.question",
+  "pk": 52,
+  "fields": {
+    "question_text": "How does Django handle internationalization and localization?",
+    "pub_date": "2024-07-19T06:01:48Z"
+  }
+}
+]
